@@ -5,7 +5,7 @@
 }
 
 body{
-    background: lavender;
+    background: burlywood;
 }
 /* header */
 header{
@@ -71,10 +71,6 @@ img{
 
 
 /*footer */
-
-.footer {
-    clear: both;
-}
 
 footer {
     height: 60px;
