@@ -21,7 +21,7 @@
                 <li><a href="">AIA</a></li>
                 <li><a href="">Flowchart</a></li>
                 <li><a href="">Final Project</a></li>
-                <li><a href="">Contact LaMonte</a></li>
+                <li><a href="contact.php">Contact LaMonte</a></li>
             </ul>
         </nav>
     </header>
