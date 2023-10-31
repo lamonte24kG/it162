@@ -3,7 +3,7 @@
    <footer>
     <ul>
         <li>Copyright &copy;
-            2023</li>
+        <?=date('Y')?></li>
         <li>All Rights Reserved</li>
         <li><a href="../index.php">Web Design by LaMonte Golden</a></li>
         <li><a id="html-checker" href="#">HTML Validation</a></li>
