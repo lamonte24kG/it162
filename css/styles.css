@@ -20,15 +20,23 @@ header{
     height: 100px;
     background:  rgb(56, 52, 59);
     text-align:  center;
+   
 }
 
 header h1{
     padding-top: 10px;
     margin-bottom: 10px;
-    color: whitesmoke;
-
+    color: rgb(189, 185, 185);
 }
+
 /* nav */
+
+/* Change background color of navigation on selected page */
+ul.topnav li a.selected {
+    background-color: #ccc;
+    color:#000;
+}
+
 
 /* nav ul {
     margin: auto;
@@ -76,6 +84,14 @@ img{
 #my-pic{
      margin-left: 60px;
      height: auto;
+}
+/*typography*/
+/* font awesome icon styles */
+i.logo {
+    color:darkred; /* a less boring color */
+    text-shadow:1px 1px #ccc; /* gives the icon a little depth */
+    font-size:1.25em; /* font awesome icons are text, so make it a bit bigger */
+    margin-left:1%; /* this keeps the icon from being squeeezed to the left */
 }
 
 
