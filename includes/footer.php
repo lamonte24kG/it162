@@ -1,9 +1,9 @@
 
    <!--footer starts here-->
-   <footer>
+   <footer class="footer">
     <ul>
         <li>Copyright &copy;
-        <?=date('Y')?></li>
+            2023</li>
         <li>All Rights Reserved</li>
         <li><a href="../index.php">Web Design by LaMonte Golden</a></li>
         <li><a id="html-checker" href="#">HTML Validation</a></li>
